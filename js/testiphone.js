@@ -3,19 +3,19 @@ var urlPos=0;
 var urlHistory = [];
 var iPhoneApps = [];
 addressBarStatus = true;
-iPhoneApps[1] = "http://ec2-72-44-51-230.z-1.compute-1.amazonaws.com/ichess.html"; //
-iPhoneApps[2] = "http://onetrip.org/onetrip/?pass&go"; //
-iPhoneApps[3] = "http://mini.zoho.com/"; //
-iPhoneApps[4] = "http://digg.com/iphone/";// 
-iPhoneApps[5] = "http://www.publictivity.com/im/";// 
-iPhoneApps[6] = "http://www.gasapp.com/new.html";// 
-iPhoneApps[7] = "http://gobekdeligi.com/idelicious/"; //
-iPhoneApps[8] = "http://m.youtube.com/"; //
-iPhoneApps[9] = "http://www.kudit.com"; //
-iPhoneApps[10] = "http://www.moviesapp.com/"; //
-iPhoneApps[11] = "http://www.chandlerkent.com/iphlickr"; //
-iPhoneApps[12] = "http://www.iphonehangman.com/"; //
-iPhoneApps[99] = "http://reader.mac.com/"; //
+iPhoneApps[1] = "https://"; //
+iPhoneApps[2] = "https://"; //
+iPhoneApps[3] = "https://"; //
+iPhoneApps[4] = "https://";// 
+iPhoneApps[5] = "https://";// 
+iPhoneApps[6] = "https://";// 
+iPhoneApps[7] = "https://"; //
+iPhoneApps[8] = "https://"; //
+iPhoneApps[9] = "https://"; //
+iPhoneApps[10] = "http://"; //
+iPhoneApps[11] = "https://"; //
+iPhoneApps[12] = "https://"; //
+iPhoneApps[99] = "https://"; //
 
 function Safari_Refresh(alink){
 	goActive();
